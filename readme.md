@@ -23,7 +23,7 @@ Incluye todo el flujo completo:
 
 ```bash
 git clone https://github.com/YueYuuta/example-node-ts-osodreamer-sri-xml-signer.git
-cd osodreamer-sri-xml-signer-example
+cd example-node-ts-osodreamer-sri-xml-signer
 npm install
 npm run dev
 ```
